@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Bernardo
+# 👋 Olá, eu me chamo Bernardo Mendes
 
 ### ☕ Futuro Desenvolvedor Backend
 
@@ -24,7 +24,7 @@
 <div align="center">
 
 ### Tecnologias que uso
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
 
 ### Aprendendo agora
 <img src="https://skillicons.dev/icons?i=docker" />
@@ -36,13 +36,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Profile
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bernas0610&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
