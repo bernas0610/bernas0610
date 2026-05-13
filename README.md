@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
 </p>
 
 ---
@@ -27,10 +27,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernas0610&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernas0610&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
 
 ---
 
