@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Bernardo</h1>
+<h1 align="center">Olá 👋, eu me chamo Bernardo Vinicius </h1>
 <h3 align="center">Futuro Desenvolvedor Backend ☕</h3>
 
 <p align="center">
