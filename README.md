@@ -1,63 +1,99 @@
-<h1 align="center">Olá 👋, eu me chamo Bernardo Vinicius </h1>
-<h3 align="center">Futuro Desenvolvedor Backend ☕</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Aprendendo+Java+e+Spring+Boot;Focado+em+APIs+REST+e+Segurança+JWT;Construindo+meu+caminho+como+Backend+Developer" />
-</p>
+# 👋 Olá, eu sou Bernardo
+
+### ☕ Futuro Desenvolvedor Backend
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Aprendendo+Java+e+Spring+Boot;Focado+em+APIs+REST+e+Segurança+JWT;Construindo+meu+caminho+como+Backend+Developer;Próximo+passo:+Docker+e+Swagger" />
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Aprendendo **Java e Spring Boot**  
-📚 Atualmente focado em **APIs REST e segurança JWT**  
+💻 Aprendendo **Java** e **Spring Boot**  
+📚 Atualmente focado em **APIs REST** e **segurança JWT**  
 🎯 Objetivo: me tornar **Desenvolvedor Backend**  
-🐳 Próximos passos: aprender **Docker** e **Swagger**
+🐳 Próximos passos: aprender **Docker** e **Swagger/OpenAPI**
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
-</p>
+<div align="center">
+
+### Tecnologias que uso
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+
+### Aprendendo agora
+<img src="https://skillicons.dev/icons?i=docker" />
+
+### Próximo passo
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernas0610&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bernas0610&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas0610&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bernas0610&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🎯 Atualmente estudando
+## 📈 Activity Graph
 
-- Spring Security
-- JWT Authentication
-- JPA / Hibernate
-- MySQL
-- Docker
-- Swagger/OpenAPI
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernas0610&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+✓ Java Fundamentals
+✓ Spring Boot
+✓ APIs REST
+✓ JPA / Hibernate
+✓ Spring Security
+✓ JWT Authentication
+⬜ Docker
+⬜ Swagger / OpenAPI
+⬜ Testes automatizados
+```
+
+---
+
+## 🎯 Objetivo atual
+
+Construir projetos backend completos com:
+
+- autenticação segura
+- banco de dados relacional
+- documentação de API
+- boas práticas de arquitetura
+- deploy futuramente
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/bernas0610">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-bernas0610-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/bernardo-mendes-028306305">
+  <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
