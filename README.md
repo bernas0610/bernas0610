@@ -4,7 +4,7 @@
 
 ### ☕ Futuro Desenvolvedor Backend
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Aprendendo+Java+e+Spring+Boot;Focado+em+APIs+REST+e+Segurança+JWT;Construindo+meu+caminho+como+Backend+Developer;Próximo+passo:+Docker+e+Swagger" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Focado+em+APIs+REST+e+Segurança+JWT;Construindo+meu+caminho+como+Backend+Developer" />
 
 </div>
 
